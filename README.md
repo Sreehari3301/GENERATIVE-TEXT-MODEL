@@ -1,4 +1,18 @@
-# Coherent Text Generation Model
+# GENERATIVE-TEXT-MODEL
+
+*COMPANY NAME*: CODTECH IT SOLUTIONS
+
+*NAME*: SREEHARI R
+
+*INTERN ID*: CTIS0675
+
+*DOMIAN*: ARTIFICIAL INTELLIGENCE
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH
+
+# 🎯 PROJECT SUMMARY: # Coherent Text Generation Model
 
 This project provides a pre-trained transformer-based model (GPT-2) to generate coherent paragraphs based on specific topics.
 
@@ -35,3 +49,6 @@ python generator.py --prompt "Your topic here"
 - Mars Exploration
 - Sustainable Energy
 - Social Media Impact
+
+# Output
+<img width="1726" height="996" alt="Image" src="https://github.com/user-attachments/assets/a02a4fd0-bee0-48fa-a27f-6f31fcd13a1f" />

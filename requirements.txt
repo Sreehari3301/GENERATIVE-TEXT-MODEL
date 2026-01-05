@@ -1,0 +1,5 @@
+transformers
+torch
+ipywidgets
+flask
+flask-cors
